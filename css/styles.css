@@ -4,9 +4,22 @@ body {
   color: rgb(71, 71, 71);
 }
 
+.center {
+  text-align: center;
+}
+
 .flashy {
   color: rgb(255, 0, 0);
   font-style: italic;
+}
+
+.best {
+  color: rgb(126, 0, 0);
+  font-weight: 600;
+}
+
+.flavor {
+  font-size: 20px;
 }
 
 .menu {
@@ -16,6 +29,11 @@ body {
 
 .motto {
   color: rgb(0,0,0);
+  font-style: italic;
+  font-size: 15px;
+}
+
+.flavor-description {
   font-style: italic;
   font-size: 15px;
 }
@@ -31,8 +49,8 @@ body {
   text-align: center;
 }
 
-.contact {
-  text-align: center;
+.italic {
+  font-style: italic;
 }
 
 h1,h2 {
@@ -43,3 +61,14 @@ h1 {
   font-size: 32px;
 }
 
+h2 {
+  font-size: 25px;
+}
+
+a {
+  color: rgb(126, 0, 0);
+}
+
+.flavors {
+  list-style: none;
+}
