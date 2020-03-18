@@ -1,4 +1,5 @@
 # [_Cupcake Shop_](https://k8thedinosaur.github.io/cupcake-shop/)
+(view on Github Pages)
 
 #### _HTML/CSS exercise for Epicodus, 3/18/20_
 
@@ -25,6 +26,7 @@ _Contact: kate.m.farkas@gmail.com_
 ## Technologies Used
 
 _HTML_
+_CSS_
 
 ### License
 
